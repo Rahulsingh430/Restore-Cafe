@@ -1,4 +1,4 @@
-# RESTROE CAFE PROJECT 
+# RESTRO CAFE PROJECT 
 
 ```
 Project, with a frontend built in React & Redux and a backend built in Django API.
